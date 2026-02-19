@@ -14,26 +14,33 @@
       { icon: "fa-brands fa-github", name: "GitHub", hint: "Repos" },
       { icon: "fa-brands fa-gitlab", name: "GitLab", hint: "CI/CD" }
     ],
-    /*
     projects: [
       {
-        title: "Depi FreeLance Platform",
-        desc: "Freelance platform concept with clean UI and modern flow.",
-        tags: ["Platform", "Web"],
-        category: "platform",
+        title: "Buying Your Own Car",
+        desc: "(Team Project) – HTML, CSS, JavaScript.",
+        tags: ["Buying a Car", "Web"],
+        category: "Site",
         live: "",
         github: ""
       },
       {
-        title: "Smart Accountant",
-        desc: "Dashboard-like experience for accounting workflows and business views.",
-        tags: ["Dashboard", "Web"],
-        category: "dashboard",
+        title: "IPC Chat System – C++",
+        desc: "Implemented a chat system using sockets and shared memory, and multithreading and synchronization techniques",
+        tags: ["chat system", "C++"],
+        category: "chat system",
+        live: "",
+        github: ""
+      },
+      {
+        title: "Maze Solver",
+        desc: "Built a maze-solving with Applying algorithmic thinking to find optimal paths efficiently.",
+        tags: ["Maze Solver", "Python"],
+        category: "Maze Solver",
         live: "",
         github: ""
       }
     ]
-      */
+      
   };
 
   const $ = (s, root = document) => root.querySelector(s);
