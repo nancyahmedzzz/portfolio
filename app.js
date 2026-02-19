@@ -12,7 +12,9 @@
       { icon: "fa-brands fa-docker", name: "Docker", hint: "Containers" },
       { icon: "fa-brands fa-git-alt", name: "Git", hint: "Version control" },
       { icon: "fa-brands fa-github", name: "GitHub", hint: "Repos" },
-      { icon: "fa-brands fa-gitlab", name: "GitLab", hint: "CI/CD" }
+      { icon: "fa-brands fa-gitlab", name: "HTML,CSS,JS", hint: "Interfaces" },
+      { icon: "fa-brands fa-gitlab", name: " Microsoft Office", hint: "Word,Excel,PowerPoint" },
+      { icon: "fa-brands fa-github", name: "Problem Solving", hint: "C++" }
     ],
     projects: [
       {
