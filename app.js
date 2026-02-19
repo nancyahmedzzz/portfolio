@@ -27,7 +27,7 @@
       },
       {
         title: "IPC Chat System – C++",
-        desc: "Implemented a chat system using sockets and shared memory, and multithreading and synchronization techniques",
+        desc: "(Team Project) Implemented a chat system using sockets and shared memory, and multithreading and synchronization techniques",
         tags: ["chat system", "C++"],
         category: "chat system",
         live: "",
